@@ -3,7 +3,7 @@
 #include "RN.h"
 #include <time.h>
 
-#define DATA_SIZE 160000
+#define DATA_SIZE 10000
 
 int main()
 {
