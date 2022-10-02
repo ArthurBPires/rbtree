@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1621436144 source:c:\users\acer\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubronegras\rn.c
+	<stdio.h>
+	<stdlib.h>
+	"RN.h"
+
+1621438618 c:\users\acer\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubronegras\rn.h
+	<stdio.h>
+	<stdlib.h>
+
+1621629747 source:c:\users\acer\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubronegras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RN.h"
+	<time.h>
+
+1621633808 source:c:\users\acer\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubro_negra\rn.c
+	<stdio.h>
+	<stdlib.h>
+	"RN.h"
+
+1621633808 c:\users\acer\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubro_negra\rn.h
+	<stdio.h>
+	<stdlib.h>
+
+1621637972 source:c:\users\acer\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubro_negra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RN.h"
+	<time.h>
+
+1664678915 source:c:\backup\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubro_negra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RN.h"
+	<time.h>
+
+1664678958 c:\backup\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubro_negra\rn.h
+	<stdio.h>
+	<stdlib.h>
+
+1664678979 source:c:\backup\onedrive\햞ea de trabalho\ufrgs\2 semestre\estrutura de dados\rubro-negra\rubro_negra\rn.c
+	<stdio.h>
+	<stdlib.h>
+	"RN.h"
+
